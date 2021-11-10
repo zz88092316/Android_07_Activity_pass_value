@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Android_07_Activity_pass_value.iml" filepath="$PROJECT_DIR$/.idea/modules/Android_07_Activity_pass_value.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/Android_07_Activity_pass_value.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/Android_07_Activity_pass_value.app.iml" />
+    </modules>
+  </component>
+</project>
